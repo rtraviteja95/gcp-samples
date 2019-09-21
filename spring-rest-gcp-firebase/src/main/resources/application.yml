@@ -1,0 +1,7 @@
+---
+application:
+  configuration:
+    firebase:
+      serviceKeyFile: PATH_TO_SERVICEKEY_JSON
+      databaseUrl: DATABASE_URL
+      databaseReference: DATABASE_REFERENCE
