@@ -1,0 +1,7 @@
+---
+application:
+  configuration:
+    firestore:
+      serviceKeyFile: PATH_TO_SERVICEKEY_JSON
+      projectId: PROJECT_ID
+      collectionName: COLLECTION_NAME
